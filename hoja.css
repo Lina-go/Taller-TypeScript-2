@@ -1,0 +1,8 @@
+.id {
+    font-weight: bold;
+}
+.btn-serie-name {
+    color: rgb(22, 87, 185);
+    border: 5px solid rgba(255, 255, 255, 0);
+    text-decoration: none;
+}
